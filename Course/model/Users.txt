@@ -1,0 +1,5 @@
+person personPassword
+admin adminPassword
+superadmin superadminPassword
+
+Encoding: 1251
